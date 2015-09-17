@@ -1,0 +1,3 @@
+# (~2013) Web screenshot
+
+Purpose of this program was to make a screenshot of current webpage... 
